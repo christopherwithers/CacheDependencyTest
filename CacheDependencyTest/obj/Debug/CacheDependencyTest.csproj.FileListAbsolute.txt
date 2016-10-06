@@ -1,0 +1,6 @@
+C:\Development\CacheDependencyTest\CacheDependencyTest\bin\Debug\CacheDependencyTest.exe.config
+C:\Development\CacheDependencyTest\CacheDependencyTest\bin\Debug\CacheDependencyTest.exe
+C:\Development\CacheDependencyTest\CacheDependencyTest\bin\Debug\CacheDependencyTest.pdb
+C:\Development\CacheDependencyTest\CacheDependencyTest\obj\Debug\CacheDependencyTest.csprojResolveAssemblyReference.cache
+C:\Development\CacheDependencyTest\CacheDependencyTest\obj\Debug\CacheDependencyTest.exe
+C:\Development\CacheDependencyTest\CacheDependencyTest\obj\Debug\CacheDependencyTest.pdb
